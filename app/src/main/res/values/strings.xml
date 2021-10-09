@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GetGo</string>
+    <string name="title_rentcar">Rent a Car</string>
+    <string name="title_refertofriend">Refer a friend</string>
+    <string name="title_booking">Bookings</string>
+    <string name="title_account">Account</string>
+    <string name="label_location">location</string>
+    <string name="title_current_location">Current Location</string>
+    <string name="label_dateandtime">Date &amp; Time</string>
+    <string name="label_rentalFee">Rental Fee</string>
+    <string name="label_mileageFee">Mileage Fee</string>
+    <string name="title_time">Now</string>
+    <string name="title_go">GO</string>
+    <string name="title_search_result">Search Results</string>
+    <string name="title_booking_id">Booking ID: 4412331</string>
+    <string name="title_carno">300+</string>
+    <string name="label_carname">Mazada</string>
+    <string name="label_model">SMS 1000Z</string>
+    <string name="label_confirm">CONFIRMED</string>
+    <string name="label_cartext"> cars found</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_map">Map</string>
+    <string name="label_startdate">Start Date</string>
+    <string name="label_enddate">End Date</string>
+    <string name="label_duration">Duration</string>
+    <string name="text_startdate">Mon, 1 Nov 20 </string>
+    <string name="text_enddate">Tue, 2 Nov 20</string>
+    <string name="text_time">11:45am</string>
+
+</resources>
